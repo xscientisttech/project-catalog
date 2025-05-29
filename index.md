@@ -33,3 +33,5 @@ We are a team of engineers, designers, and strategists building powerful solutio
 
 🔗 [Visit Our Website](https://xscientist.tech)  
 📬 Email us: [connect@xscientist.tech](mailto:connect@xscientist.tech)
+
+Checkout [Readme](readme.html)
